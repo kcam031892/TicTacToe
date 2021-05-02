@@ -1,10 +1,8 @@
 # Tic Tac Toe
 
-## TODOS
+- a tictactoe game built with vanillaJS
 
-- [x] Generate a 3x3 board
-- [x] The game must consist of a player and a computer.
-- [ ] Player Move
-- [ ] Computer Move
-- [ ] Check board is full.
-- [ ] Check Winner.
+## How to run
+
+- npm install
+- npm start
